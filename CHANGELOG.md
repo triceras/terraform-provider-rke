@@ -9,6 +9,7 @@ ENHANCEMENTS:
 * Updated go to 1.13
 * Updated RKE to v1.1.3
 * Adapt provider release to met terraform registry requirements
+* Added restore feature on `rancher2_cluster` resource
 
 BUG FIXES:
 

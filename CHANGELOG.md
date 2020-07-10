@@ -14,6 +14,7 @@ BUG FIXES:
 
 * Updated `cloud_provider` and `bastion_host` arguments on `rancher2_cluster` resource to fix false diff 
 * Updated `ignore_docker_version` argument on `rancher2_cluster` resource to fix provider crash 
+* Updated `expandRKECluster` function to fix `rancher2_cluster` import when audit log policy is defined
 
 ## 1.0.0 (May 7, 2020)
 
